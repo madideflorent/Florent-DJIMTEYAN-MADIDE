@@ -1,4 +1,4 @@
-# 👋 Salut, je suis DJIMTEYAN MADIDE Florent
+#  je suis DJIMTEYAN MADIDE Florent
 
 **Étudiant en Statistique & Économie Appliquée** à l'**ISSEA-CEMAC** (Institut Sous-Régional de Statistique et d'Économie Appliquées) — filière AS2.
 
@@ -8,7 +8,7 @@ Passionné par la donnée sous toutes ses formes : statistique, économétrie, a
 
 ## 🎓 À propos
 
-- 📊 Formation en **statistique, économétrie et sciences actuarielles**
+- 📊 Formation en **statistique**
 - 🏦 Stage académique effectué à la **Banque des États de l'Afrique Centrale (BEAC)**, au sein du **Département de la Formation et du Perfectionnement (DFP)**
 - 🌍 Basé en Afrique Centrale (zone CEMAC)
 - 🗣️ Travaux et rapports rédigés en français, selon les standards institutionnels ISSEA
@@ -49,13 +49,11 @@ Réalisation de plusieurs cartes thématiques sous **QGIS** :
 
 ## 🛠️ Logiciels & Outils
 
-`Excel` · `Word` · `QGIS` · `R` · `Stata` · `SPSS` · `Access` (+VBA) · `SQL` · `LaTeX`
+`Excel` · `Word` · `QGIS` · `R` · `Stata` · `SPSS` · `Access` (+VBA) · `mySQL` · `LaTeX` · `Python`
+
 
 ---
 
 ## 📫 Me contacter
 
-*(à compléter : email, LinkedIn, GitHub…)*
-
----
-*Ce README a été généré à partir de mes projets académiques et professionnels récents.*
+*(à compléter : madideflorent3@gmail.com, www.linkedin.com/in/florent-djimteyan-madide-223807323, GitHub…)*
